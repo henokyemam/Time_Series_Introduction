@@ -3,4 +3,4 @@ This repo contains Time Series introduction notes and python code as taught by [
 1. Key basic concepts of Time Series
 2. Simple data exploration and analysis techniques with pandas and plotting modules
 3. Handling missing values in Time Series
-4. Exploring various moving average concepts and analytic techniques
+4. Exploring various Moving Average concepts, analytic techniques and interpretation  
