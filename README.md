@@ -3,4 +3,7 @@ This repo contains Time Series introduction notes and python code as taught by [
 1. Key basic concepts of Time Series
 2. Simple data exploration and analysis techniques with pandas and plotting modules
 3. Handling missing values in Time Series
-4. Exploring various Moving Average concepts, analytic techniques and interpretation  
+    * Data used to demonstrate 2 and 3:
+        http://archive.ics.uci.edu/ml/machine-learning-databases/00501/PRSA2017_Data_20130301-20170228.zip
+4. Exploring various Moving Average analytic techniques and interpretations. 
+    * Data used to demonstrate concept: https://www.kaggle.com/robikscube/hourly-energy-consumption
