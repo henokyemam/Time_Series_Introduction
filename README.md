@@ -7,3 +7,8 @@ This repo contains Time Series introduction notes and python code as taught by [
         http://archive.ics.uci.edu/ml/machine-learning-databases/00501/PRSA2017_Data_20130301-20170228.zip
 4. Exploring various Moving Average analytic techniques and interpretations. 
     * Data used to demonstrate concept: https://www.kaggle.com/robikscube/hourly-energy-consumption
+
+5. Exploring Time Series Decomposition to trend, seasonality, residual
+6. Exploring python modeling techniques and analysis
+    * Data used to demonstrate concept:
+    'https://api.coindesk.com/v1/bpi/historical/close.json?'
