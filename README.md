@@ -12,3 +12,6 @@ This repo contains Time Series introduction notes and python code as taught by [
 6. Exploring python modeling techniques and analysis
     * Data used to demonstrate concept:
     'https://api.coindesk.com/v1/bpi/historical/close.json?'
+
+7. Exploring statistical techniques for stationary test 
+    * link = "https://raw.githubusercontent.com/srivatsan88/YouTubeLI/master/dataset/amazon_revenue_profit.csv"
